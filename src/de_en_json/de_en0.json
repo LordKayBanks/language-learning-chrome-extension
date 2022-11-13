@@ -1,0 +1,891 @@
+{
+  "der": [
+    { "text": "Du kannst das machen!", "translation": "You can do that!" },
+    { "text": "Was ist das da?", "translation": "What's that there?" },
+    { "text": "Die Leute haben alle keine Zeit.", "translation": "People all don't have time." },
+    { "text": "So habe ich das nicht gesagt.", "translation": "I didn't say it like that." },
+    { "text": "Das Beste sollte noch kommen.", "translation": "The best was yet to come." },
+    { "text": "Das ist immer so gewesen.", "translation": "That has always been so." },
+    { "text": "Heute geht das nicht mehr.", "translation": "Nowadays, this is not like this anymore." },
+    { "text": "Das habe ich nicht gesehen.", "translation": "I didn't see that." },
+    { "text": "Das tut mir gut!", "translation": "That's good for me!" },
+    { "text": "Er tat das alles nur für sich.", "translation": "All this he did just for himself." }
+  ],
+  "sein": [
+    { "text": "Hallo? Bist du noch da?", "translation": "Hello? Are you still there?" },
+    { "text": "Das ist immer so gewesen.", "translation": "That has always been so." },
+    { "text": "Zwei mal zwei ist vier.", "translation": "Two times two is four." },
+    { "text": "Ist das unseres?", "translation": "Is this ours?" },
+    { "text": "Hier bin ich groß geworden.", "translation": "This is where I grew up." },
+    { "text": "Das ist immer so gewesen.", "translation": "This has always been the case." },
+    { "text": "Wie war es?", "translation": "What was it like?" },
+    { "text": "Wo bist du?", "translation": "Where are you?" },
+    { "text": "Ich weiß nicht mehr, wo es ist.", "translation": "I don't know where it is anymore." },
+    { "text": "Jedem das Seine ist nicht zu viel.", "translation": "To each his own is not too much." }
+  ],
+  "ich": [
+    { "text": "\"Vertraue mir\", sagte er.", "translation": "\"Trust me,\" he said." },
+    { "text": "Ich muss mal!", "translation": "I need the loo!" },
+    { "text": "Das tut mir gut!", "translation": "That's good for me!" },
+    { "text": "Das habe ich noch nicht getan.", "translation": "I still haven't done it." },
+    { "text": "Ich kann so ein Leben nicht leben.", "translation": "I can't live such a life." }
+  ],
+  "ein": [
+    { "text": "Ich kann so ein Leben nicht leben.", "translation": "I can't live such a life." },
+    { "text": "Nüchternes Leben ist ein gutes Leben.", "translation": "Sober life is a good life." },
+    { "text": "Kommt einer mit?", "translation": "Will someone come along?" },
+    { "text": "Tatoeba hat einen \"Log out\" Knopf.", "translation": "Tatoeba has a \"Log out\" button." },
+    { "text": "Ich komme ein anderes Mal.", "translation": "I'll come another time." }
+  ],
+  "und": [
+    { "text": "Und was werden wir machen?", "translation": "And what are we going to do?" },
+    { "text": "Er lebt in Saus und Braus.", "translation": "He lives in Saus and Braus." },
+    { "text": "Und auch nicht hier.", "translation": "And not here either." },
+    { "text": "Er dachte nach und dachte nach.", "translation": "He thought and thought." },
+    { "text": "Und so kommt eins zum anderen.", "translation": "And so one thing leads to another." }
+  ],
+  "sie": [
+    { "text": "Was wollen Sie tun?", "translation": "What do you want to do?" },
+    { "text": "Sie macht mit ihm, was sie will.", "translation": "She does what she wants with him." },
+    { "text": "Sie ist schon über 70.", "translation": "She is already over 70." },
+    { "text": "Wissen Sie, wer sie sind?", "translation": "Do you know who they are?" },
+    { "text": "Sie wissen das doch besser als ich.", "translation": "You know that better than I do." }
+  ],
+  "es": [
+    { "text": "Wie war es?", "translation": "What was it like?" },
+    { "text": "Jeder denkt es, aber keiner sagt es.", "translation": "Everyone thinks so, but no one says it." },
+    { "text": "Gab es Atlantis wirklich?", "translation": "Did Atlantis really exist?" },
+    { "text": "Ich möchte es nicht wissen.", "translation": "I don't want to know." },
+    { "text": "Es kommen wieder andere Zeiten.", "translation": "There will be other times." }
+  ],
+  "haben": [
+    { "text": "Mehr hat er nicht gesagt.", "translation": "He said nothing else." },
+    { "text": "Das habe ich nicht gesehen.", "translation": "I didn't see that." },
+    { "text": "Das habe ich noch nicht getan.", "translation": "I still haven't done it." },
+    { "text": "Hätte ich noch Zeit gehabt!", "translation": "If I had still had time!" },
+    { "text": "Wenn ich das doch nur gewusst hätte!", "translation": "If only I had known that!" },
+    { "text": "Was hast du vor zu tun?", "translation": "What are you planning to do?" },
+    { "text": "Mein Freund hat heute Geburtstag.", "translation": "Today is my friend's birthday." },
+    { "text": "Hätte ich noch Zeit gehabt!", "translation": "If I had still had time!" },
+    { "text": "Die Leute haben alle keine Zeit.", "translation": "People all don't have time." },
+    { "text": "Wer viel hat, will noch mehr haben.", "translation": "Those who have a lot want to have even more." }
+  ],
+  "du": [
+    { "text": "Du kannst das machen!", "translation": "You can do that!" },
+    { "text": "Hallo? Bist du noch da?", "translation": "Hello? Are you still there?" },
+    { "text": "Wo bist du?", "translation": "Where are you?" },
+    { "text": "Ich mag dich nicht mehr.", "translation": "I don't like you anymore." },
+    { "text": "Ich denke immer nur an dich.", "translation": "I always think only of you." }
+  ],
+  "in": [
+    { "text": "Ich bin gut in Wissenschaft.", "translation": "I'm good at science." },
+    { "text": "Er lebt in Saus und Braus.", "translation": "He lives in Saus and Braus." },
+    { "text": "Ich war schon in Jokohama.", "translation": "I've been to Jokohama." },
+    {
+      "text": "Markkus Lieblingspullover war in die Jahre gekommen.",
+      "translation": "Marcus's favourite jumper had seen better days."
+    },
+    { "text": "Wie sieht es heute in Fukushima aus?", "translation": "What is the situation in Fukushima today?" }
+  ],
+  "zu": [
+    { "text": "Was hast du vor zu tun?", "translation": "What are you planning to do?" },
+    { "text": "Ich habe sehr viel zu tun.", "translation": "I have a lot to do." },
+    { "text": "Zu viel ist zu viel!", "translation": "Too much is too much!" },
+    { "text": "Ich habe ihm nichts zu sagen.", "translation": "I have nothing to say to him." },
+    { "text": "Es gibt jeden Tag viel zu tun.", "translation": "There is a lot to do every day." },
+    { "text": "Sie sind zu dritt gekommen.", "translation": "There were three of them." },
+    { "text": "Zu viel ist zu viel!", "translation": "Too much is too much!" },
+    { "text": "Er wusste das ja nur zu gut.", "translation": "He knew that all too well." },
+    { "text": "Da ist nichts zu machen.", "translation": "There is nothing to be done about that." },
+    { "text": "Warum ist sie nicht zu Tom gegangen?", "translation": "Why didn't she go to Tom?" }
+  ],
+  "nicht": [
+    { "text": "Mehr hat er nicht gesagt.", "translation": "He said nothing else." },
+    { "text": "Heute geht das nicht mehr.", "translation": "Nowadays, this is not like this anymore." },
+    { "text": "Das habe ich nicht gesehen.", "translation": "I didn't see that." },
+    { "text": "Das habe ich noch nicht getan.", "translation": "I still haven't done it." },
+    { "text": "O nein! Nicht schon wieder!", "translation": "Oh no, not again!" }
+  ],
+  "wir": [
+    { "text": "Wir müssen wissen. Wir werden wissen.", "translation": "We must know. We will know." },
+    { "text": "Das haben wir immer so gemacht.", "translation": "We've always done it this way." },
+    { "text": "Es wird Zeit, dass wir was tun!", "translation": "It's time we did something." },
+    { "text": "Er ist von uns gegangen.", "translation": "He has left us." },
+    { "text": "Haben wir schon Dienstag?", "translation": "Is it Tuesday already?" }
+  ],
+  "er": [
+    { "text": "Mehr hat er nicht gesagt.", "translation": "He said nothing else." },
+    { "text": "Er tat das alles nur für sich.", "translation": "All this he did just for himself." },
+    { "text": "Sie macht mit ihm, was sie will.", "translation": "She does what she wants with him." },
+    { "text": "Er lebt in Saus und Braus.", "translation": "He lives in Saus and Braus." },
+    { "text": "Da hast du's ihm aber gegeben!", "translation": "That's told him!" }
+  ],
+  "werden": [
+    { "text": "Wir müssen wissen. Wir werden wissen.", "translation": "We must know. We will know." },
+    { "text": "Und was werden wir machen?", "translation": "And what are we going to do?" },
+    { "text": "Es wird Zeit, dass wir was tun!", "translation": "It's time we did something." },
+    { "text": "Alles wird gut sein.", "translation": "Everything will be fine." },
+    { "text": "Das wird schon gut gehen.", "translation": "It'll go well." },
+    { "text": "Was nicht ist, kann noch werden.", "translation": "What isn't yet may later be." },
+    { "text": "Hier bin ich groß geworden.", "translation": "This is where I grew up." },
+    { "text": "Wo nichts ist, kann auch nichts werden.", "translation": "Where there is nothing, nothing can become." },
+    { "text": "Wer wurde der Erste?", "translation": "Who was the first?" },
+    { "text": "Ich sagte, es wird mir gut gehen.", "translation": "I said I'll be fine." }
+  ],
+  "dies": [
+    { "text": "Diese Zeiten werden nicht wieder kommen.", "translation": "Those times will not come again." },
+    { "text": "An diesem Tag geht es nicht.", "translation": "On this day it does not work." },
+    { "text": "Was ich sagen möchte, ist dieses.", "translation": "What I want to say is this." },
+    { "text": "Wisst ihr, wer diese Leute sind?", "translation": "Do you know who those people are?" },
+    { "text": "Sie müssen dies für mich tun.", "translation": "You have to do this for me." }
+  ],
+  "können": [
+    { "text": "Du kannst das machen!", "translation": "You can do that!" },
+    { "text": "Man kann immer Zeit finden.", "translation": "You can always find time." },
+    { "text": "Was nicht ist, kann noch werden.", "translation": "What isn't yet may later be." },
+    { "text": "Ich kann so ein Leben nicht leben.", "translation": "I can't live such a life." },
+    { "text": "Kann man das so sagen?", "translation": "Can it be put like that?" }
+  ],
+  "mit": [
+    { "text": "Wer kommt mit mir?", "translation": "Who is coming with me?" },
+    { "text": "Sie macht mit ihm, was sie will.", "translation": "She does what she wants with him." },
+    { "text": "Man muss mit der Zeit gehen.", "translation": "You need to move with the times." },
+    { "text": "Ich meine es gut mit Ihnen.", "translation": "I mean well with you." },
+    { "text": "Machst du das immer noch mit Tom?", "translation": "Do you still do that with Tom?" }
+  ],
+  "von": [
+    { "text": "Er ist von uns gegangen.", "translation": "He has left us." },
+    { "text": "Ich hatte nicht viel von ihm.", "translation": "I didn't have much of him." },
+    { "text": "Ich sehe von hier aus nichts.", "translation": "I can't see anything from here." },
+    { "text": "Ist sie von hier?", "translation": "Does she come from here?" },
+    { "text": "Alles Leben kommt vom Leben.", "translation": "All life comes from life." }
+  ],
+  "auf": [
+    { "text": "Hör doch auf!", "translation": "Stop it!" },
+    { "text": "Gibst du jetzt auf?", "translation": "Are you giving up now?" },
+    { "text": "Esperanto macht Lust auf mehr.", "translation": "Esperanto makes you want more." },
+    { "text": "Tom geht schon auf die 90 zu.", "translation": "Tom is already approaching 90." },
+    { "text": "Gibt es so etwas auch auf Deutsch?", "translation": "Is there such a thing on German?" }
+  ],
+  "was": [
+    { "text": "Was hast du vor zu tun?", "translation": "What are you planning to do?" },
+    { "text": "Was ist das da?", "translation": "What's that there?" },
+    { "text": "Was nicht ist, kann noch werden.", "translation": "What isn't yet may later be." },
+    { "text": "Man sieht nur das, was man weiß.", "translation": "You only see what you know." },
+    { "text": "Und was werden wir machen?", "translation": "And what are we going to do?" }
+  ],
+  "ihr": [
+    { "text": "Ihr wisst nicht, wer ich bin.", "translation": "You don't know who I am." },
+    { "text": "Ich bin so gut wie ihr.", "translation": "I am as good as you." },
+    { "text": "Ich werde es ihr sagen.", "translation": "I will tell her." },
+    { "text": "Was wollt ihr?", "translation": "What do you want?" },
+    { "text": "Wart ihr schon mal in Frankreich?", "translation": "Have you ever been to France?" }
+  ],
+  "dass": [
+    { "text": "Es wird Zeit, dass wir was tun!", "translation": "It's time we did something." },
+    { "text": "Es ist Zeit, dass wir gehen!", "translation": "It's time for us to go!" },
+    { "text": "Dass das so ist, finde ich gut.", "translation": "I think it's good that this is the case." },
+    { "text": "Denkst du, dass ich das will?", "translation": "Do you think I want this?" },
+    { "text": "Sie wollen nicht, dass Sie es wissen.", "translation": "You don't want you to know." }
+  ],
+  "für": [
+    { "text": "Er tat das alles nur für sich.", "translation": "All this he did just for himself." },
+    { "text": "Tu etwas für andere.", "translation": "Do something for others." },
+    { "text": "Für nichts gibt man nichts.", "translation": "You don't give anything for anything." },
+    { "text": "Was ist das für ein Leben?", "translation": "What kind of life is this?" },
+    { "text": "Das ist immer noch neu für mich.", "translation": "It's still new to me." }
+  ],
+  "an": [
+    { "text": "Was geht dich das an?", "translation": "What does it concern you?" },
+    { "text": "Sie dachte an ihn.", "translation": "She thought of him." },
+    { "text": "Ich denke immer nur an dich.", "translation": "I always think only of you." },
+    { "text": "Stell dich mal nicht so an!", "translation": "Don't act like that!" },
+    { "text": "Es kommt alles an den Tag.", "translation": "It all comes to light." }
+  ],
+  "wie": [
+    { "text": "Wie war es?", "translation": "What was it like?" },
+    { "text": "Wie geht es ihm?", "translation": "How is he?" },
+    { "text": "Es gab so gut wie nichts.", "translation": "There was next to nothing." },
+    { "text": "Tom macht alles so, wie er will.", "translation": "Tom does everything the way he wants." },
+    { "text": "Wie leben wir im Jahr 2030?", "translation": "How will we live in 2030?" },
+    { "text": "Wie viel ist vier mal sechs?", "translation": "How much is four times six?" },
+    {
+      "text": "\"Gibt's was Neues?\" \"Nein, alles wie immer.\"",
+      "translation": "\"Any news?\" \"No, everything's still the same.\""
+    },
+    { "text": "Wie viel Zeit haben wir noch?", "translation": "How much time do we have left?" },
+    { "text": "Ich bin so gut wie ihr.", "translation": "I am as good as you." },
+    { "text": "So wie jedes Jahr, James!", "translation": "Just like every year, James!" },
+    { "text": "Ich weiß, wie man es macht.", "translation": "I know how to do it." },
+    { "text": "Er will so wie ich werden.", "translation": "He wants to become like me." },
+    { "text": "Es ist ganz so, wie ich dachte.", "translation": "It's just as I thought." },
+    { "text": "Sami sah aus wie Bart Simpson.", "translation": "Sami looked like Bart Simpson." },
+    { "text": "Wie es auch sei, das Leben, es ist gut.", "translation": "Be that as it may, life, it's good." }
+  ],
+  "so": [
+    { "text": "Um so besser!", "translation": "That's even better." },
+    { "text": "Das ist immer so gewesen.", "translation": "That has always been so." },
+    { "text": "Das haben wir immer so gemacht.", "translation": "We've always done it this way." },
+    { "text": "Das kann man nicht so lassen.", "translation": "You can't leave it like that." },
+    { "text": "Leute, so geht das wirklich nicht.", "translation": "Folks, that's really not how it works." }
+  ],
+  "wenn": [
+    { "text": "Wenn ich so sein könnte...", "translation": "If I could be like that..." },
+    { "text": "Wenn ich das gewusst hätte!", "translation": "If only I had known!" },
+    { "text": "Wenn du kommst, dann kommst du.", "translation": "When you come, you come." },
+    { "text": "Wir machen das, wenn er kommt.", "translation": "We'll do it when he comes." },
+    { "text": "Sie mag gehen, wenn sie will.", "translation": "She can go if she wants." }
+  ],
+  "mein": [
+    { "text": "Ach du meine Güte!", "translation": "Oh my goodness!" },
+    { "text": "Ich habe meine Tage.", "translation": "I have my days." },
+    { "text": "Dein Nasenloch ist viel größer als meines.", "translation": "Your nostril is much bigger than mine." },
+    { "text": "Heute ist mein Tag.", "translation": "Today is my day." },
+    { "text": "Meine Zeit ist noch nicht gekommen.", "translation": "My time has not yet come." },
+    { "text": "Ich bin mein Leben.", "translation": "I am my life." },
+    { "text": "Ich will etwas aus meinem Leben machen.", "translation": "I want to do something with my life." },
+    { "text": "Meines Wissens ist sie noch da.", "translation": "To the best of my knowledge, she hasn't left yet." },
+    { "text": "Meines Wissens wird er nicht kommen.", "translation": "To the best of my knowledge, he will not come." },
+    { "text": "Ist es so etwas wie meins?", "translation": "Is it anything like mine?" }
+  ],
+  "aber": [
+    { "text": "Jeder denkt es, aber keiner sagt es.", "translation": "Everyone thinks so, but no one says it." },
+    { "text": "Aber auch das ist noch nicht alles.", "translation": "But that's not all." },
+    { "text": "Aber nicht doch!", "translation": "But it doesn't!" },
+    { "text": "Ja, aber so nicht!", "translation": "Yes, but not like that!" },
+    { "text": "Ja schon, aber nicht so viel!", "translation": "Yes, but not so much!" },
+    { "text": "Da hast du's ihm aber gegeben!", "translation": "That's told him!" },
+    { "text": "So geht das aber nicht!", "translation": "But that's not how it works!" },
+    { "text": "Das war aber vor dreißig Jahren.", "translation": "But that was thirty years ago." },
+    { "text": "Das kannst du aber gut.", "translation": "You're good at this." },
+    { "text": "Jetzt gehe ich aber wirklich.", "translation": "But now I'm really going." }
+  ],
+  "gut": [
+    { "text": "Um so besser!", "translation": "That's even better." },
+    { "text": "Das tut mir gut!", "translation": "That's good for me!" },
+    { "text": "Mir geht es auch sehr gut.", "translation": "I'm also doing very well." },
+    { "text": "Das ist schon viel besser.", "translation": "That's much better." },
+    { "text": "Sie wissen das doch besser als ich.", "translation": "You know that better than I do." }
+  ],
+  "auch": [
+    { "text": "Und auch nicht hier.", "translation": "And not here either." },
+    { "text": "Mir geht es auch sehr gut.", "translation": "I'm also doing very well." },
+    { "text": "Aber auch das ist noch nicht alles.", "translation": "But that's not all." },
+    { "text": "Machst du auch schon Geocaching?", "translation": "Are you already doing geocaching?" },
+    { "text": "So kann man es auch sagen.", "translation": "That's how you can say it." }
+  ],
+  "alle": [
+    { "text": "Er tat das alles nur für sich.", "translation": "All this he did just for himself." },
+    { "text": "Das sagt alles.", "translation": "That says it all." },
+    { "text": "Jetzt ist alles aus!", "translation": "It's all over now." },
+    { "text": "Die Leute haben alle keine Zeit.", "translation": "People all don't have time." },
+    { "text": "Aber auch das ist noch nicht alles.", "translation": "But that's not all." }
+  ],
+  "gehen": [
+    { "text": "Heute geht das nicht mehr.", "translation": "Nowadays, this is not like this anymore." },
+    { "text": "Leute, so geht das wirklich nicht.", "translation": "Folks, that's really not how it works." },
+    { "text": "Mir geht es auch sehr gut.", "translation": "I'm also doing very well." },
+    { "text": "Das wird schon gut gehen.", "translation": "It'll go well." },
+    { "text": "Wie geht es ihm?", "translation": "How is he?" }
+  ],
+  "als": [
+    { "text": "Mein Mercedes ist größer als deiner.", "translation": "My Mercedes is bigger than yours." },
+    { "text": "Sie wissen das doch besser als ich.", "translation": "You know that better than I do." },
+    { "text": "Dein Nasenloch ist viel größer als meines.", "translation": "Your nostril is much bigger than mine." },
+    { "text": "Tausend können mehr als einer.", "translation": "A thousand can do more than one." },
+    { "text": "Allen anderen geht es besser als mir.", "translation": "Everyone else is better off than me." },
+    { "text": "Tom ist besser, als ich es bin.", "translation": "Tom is better than I am." },
+    { "text": "Es ist einfacher, als ich dachte.", "translation": "It is easier than I thought." },
+    { "text": "Er tat so, als würde er gehen.", "translation": "He pretended to leave." },
+    { "text": "Sie kam nach Tokio, als sie 18 war.", "translation": "She came to Tokyo when she was 18." },
+    {
+      "text": "Tom sieht so aus, als wollte er etwas sagen.",
+      "translation": "Tom looks like he wants to say something."
+    }
+  ],
+  "hier": [
+    { "text": "Und auch nicht hier.", "translation": "And not here either." },
+    { "text": "Hier bin ich groß geworden.", "translation": "This is where I grew up." },
+    { "text": "Hier lässt es sich leben.", "translation": "Here you can live." },
+    { "text": "Was geht hier vor?", "translation": "What's going on?" },
+    { "text": "Warum sind Sie immer noch hier?", "translation": "Why are you still here?" }
+  ],
+  "um": [
+    { "text": "Um so besser!", "translation": "That's even better." },
+    { "text": "Um sieben bin ich wieder da.", "translation": "At seven I'll be back." },
+    { "text": "Muss man denken, um zu sein?", "translation": "Do you have to think to be?" },
+    { "text": "Ich komme um zehn.", "translation": "I'll be there at ten." },
+    { "text": "Aber es geht hier um etwas anderes.", "translation": "But this is about something else." }
+  ],
+  "sagen": [
+    { "text": "Jeder denkt es, aber keiner sagt es.", "translation": "Everyone thinks so, but no one says it." },
+    { "text": "So habe ich das nicht gesagt.", "translation": "I didn't say it like that." },
+    { "text": "So etwas sagt man nicht!", "translation": "You don't say that!" },
+    { "text": "So kann man es auch sagen.", "translation": "That's how you can say it." },
+    { "text": "Warum sagt er das? Denkt mal nach!", "translation": "Why does he say that? Think about it!" }
+  ],
+  "oder": [
+    { "text": "Was ist besser, Geocaching oder Tatoeba?", "translation": "Which is better, geocaching or Tatoeba?" },
+    { "text": "Na, der kann's ja, oder?", "translation": "Well, he can do it, right?" },
+    { "text": "Es weiß doch jeder, oder?", "translation": "Everyone knows it, doesn't they?" },
+    { "text": "Müssen wir jetzt wirklich Müssen oder nicht?", "translation": "Do we really have to now or not?" },
+    { "text": "Man kann es so oder so machen.", "translation": "You can do it one way or the other." }
+  ],
+  "machen": [
+    { "text": "Das haben wir immer so gemacht.", "translation": "We've always done it this way." },
+    { "text": "Sie macht mit ihm, was sie will.", "translation": "She does what she wants with him." },
+    { "text": "Sie macht es sich nicht einfach.", "translation": "She's not making it easy for herself." },
+    { "text": "Ich würde es wieder so machen.", "translation": "I would do it again." },
+    { "text": "Ich möchte heute etwas anderes machen.", "translation": "I would like to do something else today." }
+  ],
+  "kein": [
+    { "text": "Keiner wusste etwas.", "translation": "No one knew anything." },
+    { "text": "Das ist doch kein Leben!", "translation": "This is no life!" },
+    { "text": "Die Leute haben alle keine Zeit.", "translation": "People all don't have time." },
+    { "text": "Einer ist besser als keiner.", "translation": "One is better than none." },
+    { "text": "Das geht keinen etwas an.", "translation": "That is nobody's business." }
+  ],
+  "sehen": [
+    { "text": "Man sieht nur das, was man weiß.", "translation": "You only see what you know." },
+    { "text": "Ich habe ihn kommen sehen.", "translation": "I saw him coming." },
+    { "text": "Lass mal sehen!", "translation": "Let's see!" },
+    { "text": "Das sehe ich auch so!", "translation": "I agree!" },
+    { "text": "Er sieht jetzt viel besser aus.", "translation": "He looks much better now." }
+  ],
+  "geben": [
+    { "text": "Da hast du's ihm aber gegeben!", "translation": "That's told him!" },
+    { "text": "Es gab viel zu tun.", "translation": "There was a lot to do." },
+    { "text": "Es gab so gut wie nichts.", "translation": "There was next to nothing." },
+    { "text": "Das gibt sich wieder.", "translation": "This is reflected again." },
+    { "text": "Gibt es schon etwas Neues?", "translation": "Is there any news?" }
+  ],
+  "nur": [
+    { "text": "Er tat das alles nur für sich.", "translation": "All this he did just for himself." },
+    { "text": "Man sieht nur das, was man weiß.", "translation": "You only see what you know." },
+    { "text": "Ich sag's ja nur!", "translation": "I'm just saying it!" },
+    { "text": "Ich denke immer nur an dich.", "translation": "I always think only of you." },
+    { "text": "Sie sagt immer nur nein.", "translation": "She always says no." }
+  ],
+  "aus": [
+    { "text": "Ich komme aus Frankreich.", "translation": "I'm from France." },
+    { "text": "Jetzt ist alles aus!", "translation": "It's all over now." },
+    { "text": "Wer denkt sich so etwas aus?", "translation": "Who comes up with such a thing?" },
+    { "text": "Sehe ich so aus?", "translation": "Do I look like this?" },
+    { "text": "Er weiß aus allem etwas zu machen.", "translation": "He knows how to make something out of everything." }
+  ],
+  "müssen": [
+    { "text": "Wir müssen wissen. Wir werden wissen.", "translation": "We must know. We will know." },
+    { "text": "Ich muss mal!", "translation": "I need the loo!" },
+    { "text": "Man muss mit der Zeit gehen.", "translation": "You need to move with the times." },
+    { "text": "Muss man müssen, wenn man nicht will?", "translation": "Do you have to if you don't want to?" },
+    { "text": "Ihr habt getan, was getan werden musste.", "translation": "You did what had to be done." }
+  ],
+  "noch": [
+    { "text": "Hallo? Bist du noch da?", "translation": "Hello? Are you still there?" },
+    { "text": "Das habe ich noch nicht getan.", "translation": "I still haven't done it." },
+    { "text": "Hätte ich noch Zeit gehabt!", "translation": "If I had still had time!" },
+    { "text": "Das Beste sollte noch kommen.", "translation": "The best was yet to come." },
+    { "text": "Jetzt geht es uns noch gut.", "translation": "Now we are still doing well." }
+  ],
+  "viel": [
+    { "text": "Wie viel ist vier mal sechs?", "translation": "How much is four times six?" },
+    { "text": "Ich habe sehr viel zu tun.", "translation": "I have a lot to do." },
+    { "text": "Es gab viel zu tun.", "translation": "There was a lot to do." },
+    { "text": "Wie viel Zeit haben wir noch?", "translation": "How much time do we have left?" },
+    { "text": "Jetzt wird es mehr, viel mehr.", "translation": "Now it's going to be more, much more." },
+    { "text": "Das ist schon viel besser.", "translation": "That's much better." },
+    { "text": "Er ist viel besser als du.", "translation": "He is much better than you." },
+    { "text": "Dein Nasenloch ist viel größer als meines.", "translation": "Your nostril is much bigger than mine." },
+    { "text": "Wer viel macht, kann viel.", "translation": "If you do a lot, you can do a lot." },
+    { "text": "Gute Leute gibt es nicht viel.", "translation": "There aren't much good people." },
+    { "text": "Tom hat das viele Male gesagt.", "translation": "Tom has said this many times." },
+    { "text": "Habe ich einfach zu viel Zeit?", "translation": "Do I just have too much time?" },
+    { "text": "Das geht doch vielen so.", "translation": "Many people feel the same way." },
+    { "text": "Du hast viel Gutes getan.", "translation": "You've done a lot of good." },
+    { "text": "Das war vor vielen Jahren.", "translation": "That was years ago." }
+  ],
+  "bei": [
+    { "text": "Wäre ich doch bei dir!", "translation": "If only I were with you!" },
+    { "text": "Bist du noch ganz bei Trost?", "translation": "Have you taken leave of your senses?" },
+    { "text": "Bei mir ist das auch so.", "translation": "That is also the case with me." },
+    { "text": "Das kommt bei mir nicht an!", "translation": "That doesn't go down well with me!" },
+    { "text": "So etwas gibt es bei uns nicht.", "translation": "We don't have anything like that." }
+  ],
+  "dann": [
+    {
+      "text": "\"Halt's Maul! sagt man nicht.\" \"Wie dann, Mama?\"",
+      "translation": "\"Shut up! you don't say so.\" \"How then, Mom?\""
+    },
+    { "text": "Wenn du kommst, dann kommst du.", "translation": "When you come, you come." },
+    { "text": "Das macht dann zwanzig Euro.", "translation": "That makes twenty euros." },
+    { "text": "Wenn Tom geht, dann gehe ich nicht.", "translation": "If Tom leaves, I don't go." },
+    { "text": "Wenn er kommt, dann um so besser.", "translation": "If he comes, so much the better." }
+  ],
+  "jetzt": [
+    { "text": "Jetzt ist die beste Zeit.", "translation": "Now is the best time." },
+    { "text": "Was kommt jetzt?", "translation": "What is it now?" },
+    { "text": "Jetzt weiß es jeder.", "translation": "Now everyone knows about it." },
+    { "text": "Ich gehe jetzt wieder.", "translation": "I'm going again now." },
+    { "text": "Er sieht jetzt viel besser aus.", "translation": "He looks much better now." }
+  ],
+  "wollen": [
+    { "text": "Was wollen Sie tun?", "translation": "What do you want to do?" },
+    { "text": "Was will er werden?", "translation": "What does he want to become?" },
+    { "text": "Ich will nicht wissen, wer ich bin.", "translation": "I don't want to know who I am." },
+    { "text": "Ich bin so, wie ich sein will.", "translation": "I am the way I want to be." },
+    { "text": "Wer viel hat, will noch mehr haben.", "translation": "Those who have a lot want to have even more." },
+    { "text": "Sie macht mit ihm, was sie will.", "translation": "She does what she wants with him." },
+    { "text": "Tom macht alles so, wie er will.", "translation": "Tom does everything the way he wants." },
+    { "text": "Ich will mehr.", "translation": "I want more." },
+    { "text": "Wer nicht will, der hat schon.", "translation": "If you don't want to, you already have." },
+    { "text": "Wer Gutes will, der sei erst gut.", "translation": "He who wants good is only good." }
+  ],
+  "nach": [
+    {
+      "text": "Mit 9 Jahren kam ich nach Süddeutschland.",
+      "translation": "At the age of 9 I came to southern Germany."
+    },
+    { "text": "Mama, Tom macht mir alles nach!", "translation": "Mom, Tom is imitating me!" },
+    { "text": "Er dachte nach und dachte nach.", "translation": "He thought and thought." },
+    { "text": "Ich ging im Januar nach Tokio.", "translation": "I went to Tokyo in January." },
+    { "text": "Warum sagt er das? Denkt mal nach!", "translation": "Why does he say that? Think about it!" }
+  ],
+  "wissen": [
+    { "text": "Wir müssen wissen. Wir werden wissen.", "translation": "We must know. We will know." },
+    { "text": "Keiner wusste etwas.", "translation": "No one knew anything." },
+    { "text": "Man sieht nur das, was man weiß.", "translation": "You only see what you know." },
+    { "text": "Sie wissen das doch besser als ich.", "translation": "You know that better than I do." },
+    { "text": "Ich weiß nicht mehr, wo es ist.", "translation": "I don't know where it is anymore." }
+  ],
+  "also": [
+    { "text": "Ich denke nicht, also bin ich nicht.", "translation": "I don't think so, so I'm not." },
+    { "text": "Also, hier sind wir!", "translation": "Well, here we are!" },
+    { "text": "Also wo hast du gelebt?", "translation": "So where did you live?" },
+    { "text": "Wo wart ihr also?", "translation": "So where were you?" },
+    { "text": "Also gut, ich werde kommen.", "translation": "All right, I'll come." }
+  ],
+  "kommen": [
+    { "text": "Das Beste sollte noch kommen.", "translation": "The best was yet to come." },
+    { "text": "Ich will wissen, wer mit uns kommt.", "translation": "I want to know who is coming with us." },
+    {
+      "text": "Mit 9 Jahren kam ich nach Süddeutschland.",
+      "translation": "At the age of 9 I came to southern Germany."
+    },
+    { "text": "Es kommen wieder andere Zeiten.", "translation": "There will be other times." },
+    { "text": "Ich komme ein anderes Mal wieder.", "translation": "I'll come again another time." }
+  ],
+  "dein": [
+    { "text": "Mein Mercedes ist größer als deiner.", "translation": "My Mercedes is bigger than yours." },
+    { "text": "Mein Haus ist wie deines.", "translation": "My house is like yours." },
+    { "text": "Heute ist nicht dein Tag.", "translation": "Today is not your day." },
+    { "text": "Mein Füller ist nicht so gut wie deiner.", "translation": "My fountain pen is not as good as yours." },
+    { "text": "Kommt dein Mann auch aus Australien?", "translation": "Is your husband also from Australia?" },
+    { "text": "Tu, was dein Herz dir sagt!", "translation": "Do as your heart dictates." },
+    { "text": "Wie war dein Tag?", "translation": "How was your day?" },
+    { "text": "Deine war besser.", "translation": "Yours was better." },
+    { "text": "Na, was macht dein Leben so?", "translation": "How is life treating you?" },
+    {
+      "text": "Ich denke, dein Englisch ist viel besser geworden.",
+      "translation": "I think your English has gotten a lot better."
+    },
+    { "text": "Was hast du in deinem Rucksack?", "translation": "What have you got in your backpack?" },
+    { "text": "Deine Zeit ist um.", "translation": "Your time is up." },
+    { "text": "Meins ist nicht so gut wie deins.", "translation": "Mine is not as good as yours." },
+    { "text": "Wo sind deine Leute?", "translation": "Where are your people?" },
+    { "text": "Was auch immer ich habe, ist deins.", "translation": "Whatever I have is yours." }
+  ],
+  "da": [
+    { "text": "Hallo? Bist du noch da?", "translation": "Hello? Are you still there?" },
+    { "text": "Um sieben bin ich wieder da.", "translation": "At seven I'll be back." },
+    { "text": "Da hast du's ihm aber gegeben!", "translation": "That's told him!" },
+    { "text": "Ich bin auch noch da!", "translation": "I'm still here too!" },
+    { "text": "Da gibt es nichts mehr zu sagen.", "translation": "There is nothing more to say." }
+  ],
+  "unser": [
+    { "text": "Das ist nichts für unsere Zeit.", "translation": "This is not for our time." },
+    { "text": "Dieser hier ist unserer.", "translation": "This one is ours." },
+    { "text": "Auch unser Tag wird kommen.", "translation": "Our day will also come." },
+    { "text": "Wir haben unser Leben zu leben.", "translation": "We have our lives to live." },
+    { "text": "Wir mögen unser Haus.", "translation": "We like our house." }
+  ],
+  "man": [
+    { "text": "Man kann immer Zeit finden.", "translation": "You can always find time." },
+    { "text": "Man sieht nur das, was man weiß.", "translation": "You only see what you know." },
+    { "text": "Das kann man nicht so lassen.", "translation": "You can't leave it like that." },
+    {
+      "text": "\"Halt's Maul! sagt man nicht.\" \"Wie dann, Mama?\"",
+      "translation": "\"Shut up! you don't say so.\" \"How then, Mom?\""
+    },
+    { "text": "Für nichts gibt man nichts.", "translation": "You don't give anything for anything." }
+  ],
+  "sehr": [
+    { "text": "Mir geht es auch sehr gut.", "translation": "I'm also doing very well." },
+    { "text": "Ich habe sehr viel zu tun.", "translation": "I have a lot to do." },
+    { "text": "Die USA sind sehr groß.", "translation": "The USA is very big." },
+    { "text": "Das hast du sehr gut gemacht.", "translation": "You did that very well." },
+    { "text": "Du bist sehr gut zu mir gewesen.", "translation": "You've been very good to me." }
+  ],
+  "sollen": [
+    { "text": "Tom soll leben!", "translation": "Let Tom live!" },
+    { "text": "Was soll aus ihm werden?", "translation": "What's to become of him?" },
+    { "text": "Das Beste sollte noch kommen.", "translation": "The best was yet to come." },
+    { "text": "Ich weiß nicht, was ich sagen soll.", "translation": "I don't know what to say." },
+    { "text": "Er wusste nicht, was er tun sollte.", "translation": "He didn't know what to do." }
+  ],
+  "tun": [
+    { "text": "Was hast du vor zu tun?", "translation": "What are you planning to do?" },
+    { "text": "Das tut mir gut!", "translation": "That's good for me!" },
+    { "text": "Ich will nichts damit zu tun haben.", "translation": "I want nothing to do with it." },
+    { "text": "Das wollte ich schon immer mal tun.", "translation": "I always wanted to do that." },
+    { "text": "Es gibt jeden Tag viel zu tun.", "translation": "There is a lot to do every day." }
+  ],
+  "mehr": [
+    { "text": "Heute geht das nicht mehr.", "translation": "Nowadays, this is not like this anymore." },
+    { "text": "Ich habe keine Zeit mehr.", "translation": "I don't have time anymore." },
+    { "text": "Nein, ich sage nichts mehr.", "translation": "No, I won't say anything more." },
+    { "text": "Ich weiß nicht mehr, wo es ist.", "translation": "I don't know where it is anymore." },
+    { "text": "Esperanto macht Lust auf mehr.", "translation": "Esperanto makes you want more." }
+  ],
+  "mal": [
+    { "text": "Lass mal sehen!", "translation": "Let's see!" },
+    { "text": "Das musste mal gesagt werden!", "translation": "It had to be said!" },
+    { "text": "Warum sagt er das? Denkt mal nach!", "translation": "Why does he say that? Think about it!" },
+    { "text": "Ich habe das schon mal gemacht.", "translation": "I've done this before." },
+    { "text": "Das machst du mir nicht noch mal!", "translation": "You won't do that to me again!" },
+    { "text": "Tom hat das viele Male gesagt.", "translation": "Tom has said this many times." },
+    { "text": "Ich komme ein anderes Mal.", "translation": "I'll come another time." },
+    { "text": "Mal sehen, was er kann.", "translation": "Let's see what he can do." },
+    { "text": "Das ist mein erstes Mal.", "translation": "It's my first time." },
+    { "text": "Ich bin zum ersten Mal hier.", "translation": "This is the first time I've been here." }
+  ],
+  "über": [
+    { "text": "Sie ist schon über 70.", "translation": "She is already over 70." },
+    { "text": "Was wissen Sie über die DDR?", "translation": "What do you know about the GDR?" },
+    { "text": "Was denkst du über diese Leute?", "translation": "What do you think about these people?" },
+    { "text": "Was denkst du wirklich über ihn?", "translation": "What do you really think of him?" },
+    { "text": "Wir wussten es die ganze Zeit über.", "translation": "We knew it all along." }
+  ],
+  "immer": [
+    { "text": "Das ist immer so gewesen.", "translation": "That has always been so." },
+    { "text": "Man kann immer Zeit finden.", "translation": "You can always find time." },
+    { "text": "Warum immer ich?", "translation": "Why always me?" },
+    { "text": "Das haben wir immer schon so gemacht!", "translation": "We've always done it this way!" },
+    { "text": "Das wollte ich schon immer mal tun.", "translation": "I always wanted to do that." }
+  ],
+  "ander": [
+    { "text": "Tu etwas für andere.", "translation": "Do something for others." },
+    { "text": "Ich komme ein anderes Mal.", "translation": "I'll come another time." },
+    { "text": "Und so kommt eins zum anderen.", "translation": "And so one thing leads to another." },
+    { "text": "Morgen ist ein anderer Tag.", "translation": "Tomorrow is another day." },
+    { "text": "Ich möchte heute etwas anderes machen.", "translation": "I would like to do something else today." },
+    { "text": "Es kommen wieder andere Zeiten.", "translation": "There will be other times." },
+    { "text": "Ich hätte nichts anderes tun können.", "translation": "I could not have done otherwise." },
+    { "text": "Hast du heute noch was anderes vor?", "translation": "Do you have anything else planned for today?" },
+    { "text": "Ich habe etwas anderes zu tun.", "translation": "I have something else to do." },
+    { "text": "Spring! Was anderes kannst du nicht machen.", "translation": "Spring! You can't do anything else." }
+  ],
+  "denken": [
+    { "text": "Jeder denkt es, aber keiner sagt es.", "translation": "Everyone thinks so, but no one says it." },
+    { "text": "Ich denke nicht, also bin ich nicht.", "translation": "I don't think so, so I'm not." },
+    { "text": "Ich denke immer nur an dich.", "translation": "I always think only of you." },
+    { "text": "Warum sagt er das? Denkt mal nach!", "translation": "Why does he say that? Think about it!" },
+    { "text": "So viel dachte ich mir.", "translation": "I thought as much." }
+  ],
+  "etwas": [
+    { "text": "Keiner wusste etwas.", "translation": "No one knew anything." },
+    { "text": "So etwas sagt man nicht!", "translation": "You don't say that!" },
+    { "text": "Gibt es schon etwas Neues?", "translation": "Is there any news?" },
+    { "text": "Das ist etwas anderes.", "translation": "That is something else." },
+    { "text": "Viel tut, wer etwas gut tut.", "translation": "A lot is done by those who do something well." },
+    { "text": "Wer denkt sich so etwas aus?", "translation": "Who comes up with such a thing?" },
+    { "text": "Das geht keinen etwas an.", "translation": "That is nobody's business." },
+    { "text": "Das geht nur mich etwas an.", "translation": "It's all my business." },
+    { "text": "Kann ich etwas für Sie tun?", "translation": "Is there anything I can do for you?" },
+    { "text": "Ich dachte, ich hätte etwas gesehen.", "translation": "I thought I had seen something." }
+  ],
+  "schon": [
+    { "text": "O nein! Nicht schon wieder!", "translation": "Oh no, not again!" },
+    { "text": "Das ist schon viel besser.", "translation": "That's much better." },
+    { "text": "Das weiß ich schon.", "translation": "I already know that." },
+    { "text": "Das wird schon gut gehen.", "translation": "It'll go well." },
+    { "text": "Das haben wir immer schon so gemacht!", "translation": "We've always done it this way!" }
+  ],
+  "vor": [
+    { "text": "Was hast du vor zu tun?", "translation": "What are you planning to do?" },
+    { "text": "Ich war vor zwei Jahren in Yokohama.", "translation": "I was in Yokohama two years ago." },
+    { "text": "Was hast du heute vor?", "translation": "What are your plans for today?" },
+    { "text": "So was kommt nicht alle Tage vor.", "translation": "This doesn't happen every day." },
+    { "text": "Tom hat nichts Gutes vor.", "translation": "Tom has nothing good in mind." }
+  ],
+  "einfach": [
+    { "text": "Sie macht es sich nicht einfach.", "translation": "She's not making it easy for herself." },
+    { "text": "Habe ich einfach zu viel Zeit?", "translation": "Do I just have too much time?" },
+    { "text": "Alle drei sahen Tom einfach nur an.", "translation": "The three of them all just looked at Tom." },
+    { "text": "Tom ließ mich einfach nicht gehen.", "translation": "Tom wouldn't let me leave." },
+    { "text": "Sagt ihm einfach, was ihr gesehen habt!", "translation": "Just tell him what you saw." },
+    { "text": "Das Leben ist nicht einfach.", "translation": "Life is not easy." },
+    { "text": "So einfach ist es nicht.", "translation": "It's not that simple." },
+    { "text": "Warum lässt du es nicht einfach so?", "translation": "Why don't you just leave it like that?" },
+    { "text": "Das ist wirklich nicht so einfach.", "translation": "It's really not that easy." },
+    { "text": "Kann man es auch einfacher sagen?", "translation": "Is it easier to say?" }
+  ],
+  "weil": [
+    { "text": "Weil es zu groß ist.", "translation": "Because it's too big." },
+    { "text": "Weil es ihn gibt.", "translation": "Because it exists." },
+    { "text": "Ich bin hier, weil ich es will.", "translation": "I'm here because I want to." },
+    { "text": "Ich gehe, weil ich gehen will.", "translation": "I'm going because I want to." },
+    { "text": "Tom weiß das, weil er da war.", "translation": "Tom knows this because he was there." }
+  ],
+  "wirklich": [
+    { "text": "Muss ich das wirklich sagen?", "translation": "Do I really need to say this?" },
+    { "text": "Das ist wirklich besser.", "translation": "That's really better." },
+    { "text": "Habt ihr das wirklich getan?", "translation": "Did you really do that?" },
+    { "text": "Er sieht wirklich gut aus.", "translation": "He's really good looking." },
+    { "text": "Tom geht wirklich auf die Leute ein.", "translation": "Tom really pays attention to people." },
+    { "text": "Leute, so geht das wirklich nicht.", "translation": "Folks, that's really not how it works." },
+    { "text": "Ist das wirklich alles?", "translation": "Is that really everything?" },
+    { "text": "Hat er das wirklich gemacht?", "translation": "Did he really do that?" },
+    { "text": "Das ist wirklich nicht so einfach.", "translation": "It's really not that easy." },
+    { "text": "Warum bist du wirklich hier?", "translation": "Why are you really here?" }
+  ],
+  "nein": [
+    { "text": "O nein! Nicht schon wieder!", "translation": "Oh no, not again!" },
+    {
+      "text": "\"Gibt's was Neues?\" \"Nein, alles wie immer.\"",
+      "translation": "\"Any news?\" \"No, everything's still the same.\""
+    },
+    { "text": "Nein, ich sage nichts mehr.", "translation": "No, I won't say anything more." },
+    { "text": "Nein, ich denke nicht.", "translation": "No, I don't think so." },
+    { "text": "Ich habe noch nicht wirklich nein gesagt.", "translation": "I haven't really said no yet." }
+  ],
+  "mögen": [
+    { "text": "Ich mag dich nicht mehr.", "translation": "I don't like you anymore." },
+    { "text": "Ich möchte es nicht wissen.", "translation": "I don't want to know." },
+    { "text": "Es mag kommen, was da will.", "translation": "It may come what wants there." },
+    { "text": "Guten Tag, was möchten Sie?", "translation": "Hello, what do you want?" },
+    { "text": "So etwas mag ich wirklich sehr.", "translation": "I really like that kind of thing." },
+    { "text": "Man muss Tom einfach mögen.", "translation": "You just have to like Tom." },
+    { "text": "Warum mögen Motten Klamotten?", "translation": "Why do moths like clothes?" },
+    { "text": "Warum mögen die Leute mich nicht?", "translation": "Why don't people like me?" },
+    { "text": "Tom sagt, er möchte nach Bosten gehen.", "translation": "Tom says that he wants to go to Boston." },
+    { "text": "Warum mögen ihn alle so sehr?", "translation": "Why does everyone like him so much?" }
+  ],
+  "jed": [
+    { "text": "Jeder denkt es, aber keiner sagt es.", "translation": "Everyone thinks so, but no one says it." },
+    { "text": "Das kann ja jeder sagen!", "translation": "Anyone can say that!" },
+    { "text": "Es gibt jeden Tag viel zu tun.", "translation": "There is a lot to do every day." },
+    { "text": "Es kann nicht jeder alles machen.", "translation": "Not everyone can do everything." },
+    { "text": "Ein jeder tut, so viel er kann.", "translation": "Everyone does as much as they can." }
+  ],
+  "ganz": [
+    { "text": "Bist du noch ganz bei Trost?", "translation": "Have you taken leave of your senses?" },
+    { "text": "Ich wusste es schon die ganze Zeit.", "translation": "I knew it all along." },
+    { "text": "Tom will etwas ganz anderes.", "translation": "Tom wants something completely different." },
+    { "text": "Ich sage das die ganze Zeit.", "translation": "I say this all the time." },
+    { "text": "Hundert Euro für den ganzen Tag.", "translation": "One hundred euros for the whole day." },
+    { "text": "Das ist mir ganz neu.", "translation": "This is completely new to me." },
+    { "text": "Ja, das ist schon ganz gut!", "translation": "Yes, that's quite good!" },
+    { "text": "Ich weiß nicht so ganz, was sie hat.", "translation": "I'm not sure what's wrong with her." },
+    {
+      "text": "Tom spricht ganz passabel Hindi und Russisch.",
+      "translation": "Tom speaks passable Hindi and Russian."
+    },
+    { "text": "Du bist aber ganz schön groß geworden!", "translation": "But you've grown up quite a bit!" }
+  ],
+  "Jahr": [
+    {
+      "text": "Mit 9 Jahren kam ich nach Süddeutschland.",
+      "translation": "At the age of 9 I came to southern Germany."
+    },
+    { "text": "Das war aber vor dreißig Jahren.", "translation": "But that was thirty years ago." },
+    { "text": "Wie leben wir im Jahr 2030?", "translation": "How will we live in 2030?" },
+    { "text": "Er lebt hier schon zehn Jahre.", "translation": "He has been living here for ten years." },
+    { "text": "Wir sehen uns im neuen Jahr.", "translation": "See you in the new year." }
+  ],
+  "finden": [
+    { "text": "Man kann immer Zeit finden.", "translation": "You can always find time." },
+    { "text": "Das finde ich auch.", "translation": "I find so too." },
+    { "text": "Wo kann ich das finden?", "translation": "Where can I find it?" },
+    { "text": "Dass das so ist, finde ich gut.", "translation": "I think it's good that this is the case." },
+    { "text": "Ich finde es hier ganz gut.", "translation": "I think it's quite good here." }
+  ],
+  "groß": [
+    { "text": "Hier bin ich groß geworden.", "translation": "This is where I grew up." },
+    { "text": "Mein Mercedes ist größer als deiner.", "translation": "My Mercedes is bigger than yours." },
+    { "text": "Die USA sind sehr groß.", "translation": "The USA is very big." },
+    {
+      "text": "\"Kanada ist groß.\" \"Algerien ist auch groß.\"",
+      "translation": "\"Canada is big.\" \"Algeria is big too.\""
+    },
+    { "text": "Wie kann man sich nur größer machen?", "translation": "How can you make yourself bigger?" }
+  ],
+  "Zeit": [
+    { "text": "Man kann immer Zeit finden.", "translation": "You can always find time." },
+    { "text": "Hätte ich noch Zeit gehabt!", "translation": "If I had still had time!" },
+    { "text": "Es wird Zeit, dass wir was tun!", "translation": "It's time we did something." },
+    { "text": "Man muss mit der Zeit gehen.", "translation": "You need to move with the times." },
+    { "text": "Ich wusste es schon die ganze Zeit.", "translation": "I knew it all along." }
+  ],
+  "erst": [
+    { "text": "Das Beste kommt erst noch.", "translation": "The best is yet to come." },
+    { "text": "Das war erst vor einem Jahr.", "translation": "That was only a year ago." },
+    { "text": "Nimm erst mal meins!", "translation": "Just use mine for now." },
+    { "text": "Warum sagen Sie mir das erst jetzt?", "translation": "Why are you only telling me this now?" },
+    { "text": "Ich wusste erst nicht, was ich tun sollte.", "translation": "I didn't know what to do at first." },
+    { "text": "Das ist mein erstes Mal.", "translation": "It's my first time." },
+    { "text": "Bist du zum ersten Mal hier?", "translation": "Is this your first time here?" },
+    { "text": "Heute ist Dienstag, der erste Oktober.", "translation": "Today is Tuesday, October 1st." },
+    { "text": "Das sagst du zum ersten Mal.", "translation": "You didn't say that before." },
+    {
+      "text": "Ich sehe so etwas zum ersten Mal.",
+      "translation": "This is the first time I've seen anything like this."
+    }
+  ],
+  "leben": [
+    { "text": "Ich kann so ein Leben nicht leben.", "translation": "I can't live such a life." },
+    { "text": "Das ist doch kein Leben!", "translation": "This is no life!" },
+    { "text": "Nüchternes Leben ist ein gutes Leben.", "translation": "Sober life is a good life." },
+    { "text": "Was will uns das Leben damit sagen?", "translation": "What does life want to tell us with it?" },
+    { "text": "Heute ist der beste Tag meines Lebens.", "translation": "Today is the best day of my life." },
+    { "text": "Ich kann so ein Leben nicht leben.", "translation": "I can't live such a life." },
+    { "text": "Hier lässt es sich leben.", "translation": "Here you can live." },
+    { "text": "Wie werden wir leben?", "translation": "How will we live?" },
+    { "text": "Es wird Zeit, dass wir leben.", "translation": "It's time for us to live." },
+    { "text": "Er lebt hier schon zehn Jahre.", "translation": "He has been living here for ten years." }
+  ],
+  "wieder": [
+    { "text": "O nein! Nicht schon wieder!", "translation": "Oh no, not again!" },
+    { "text": "Um sieben bin ich wieder da.", "translation": "At seven I'll be back." },
+    { "text": "Es kommen wieder andere Zeiten.", "translation": "There will be other times." },
+    { "text": "Ich würde es wieder so machen.", "translation": "I would do it again." },
+    { "text": "Jahr um Jahr kamen sie wieder.", "translation": "Year after year they came back." }
+  ],
+  "bis": [
+    { "text": "Bis auf ihn sind wir alle hier.", "translation": "Except for him, we are all here." },
+    { "text": "Wartet damit bis Montag!", "translation": "Please wait until Monday to do that." },
+    { "text": "Also, bis die Tage!", "translation": "So, see you the days!" },
+    { "text": "Wo waren Sie bis jetzt?", "translation": "Where have you been so far?" },
+    { "text": "Wir machen heute bis hier.", "translation": "We'll stop here for today." },
+    { "text": "Alle gingen, bis auf uns.", "translation": "Everyone left, except for us." },
+    { "text": "Warte, bis er wieder da ist!", "translation": "Wait here till he comes back." },
+    { "text": "Ok, bis dann.", "translation": "Ok, see you then." },
+    { "text": "Er isst, bis er nicht mehr kann.", "translation": "He eats until he can eat no more." },
+    { "text": "Ich warte, bis du kommst.", "translation": "I'll wait for you to come." }
+  ],
+  "lassen": [
+    { "text": "Das kann man nicht so lassen.", "translation": "You can't leave it like that." },
+    { "text": "Hier lässt es sich leben.", "translation": "Here you can live." },
+    { "text": "Lassen Sie mich das sagen!", "translation": "Let me say that!" },
+    { "text": "Warum lässt du es nicht einfach so?", "translation": "Why don't you just leave it like that?" },
+    { "text": "So lasse ich mir nicht kommen!", "translation": "I won't let myself come like that!" }
+  ],
+  "wo": [
+    { "text": "Wo bist du?", "translation": "Where are you?" },
+    { "text": "Ich weiß nicht mehr, wo es ist.", "translation": "I don't know where it is anymore." },
+    { "text": "Wo nichts ist, kann auch nichts werden.", "translation": "Where there is nothing, nothing can become." },
+    { "text": "Wo kann ich das finden?", "translation": "Where can I find it?" },
+    { "text": "Bleib, wo du bist! Ich komme!", "translation": "Stay where you are. I'm on my way." }
+  ],
+  "Tag": [
+    { "text": "So was kommt nicht alle Tage vor.", "translation": "This doesn't happen every day." },
+    { "text": "Es gibt jeden Tag viel zu tun.", "translation": "There is a lot to do every day." },
+    { "text": "An diesem Tag geht es nicht.", "translation": "On this day it does not work." },
+    { "text": "Morgen ist ein anderer Tag.", "translation": "Tomorrow is another day." },
+    { "text": "Guten Tag! Wie geht es Ihnen?", "translation": "Good day! How are you doing?" }
+  ],
+  "nichts": [
+    { "text": "Nein, ich sage nichts mehr.", "translation": "No, I won't say anything more." },
+    { "text": "Es gab so gut wie nichts.", "translation": "There was next to nothing." },
+    { "text": "Das geht dich nichts an!", "translation": "It's none of your business!" },
+    { "text": "Wo nichts ist, kann auch nichts werden.", "translation": "Where there is nothing, nothing can become." },
+    { "text": "Ich will nichts damit zu tun haben.", "translation": "I want nothing to do with it." }
+  ],
+  "ja": [
+    { "text": "Ich sag's ja nur!", "translation": "I'm just saying it!" },
+    { "text": "Das kann ja jeder sagen!", "translation": "Anyone can say that!" },
+    { "text": "Das geht ja noch!", "translation": "That's still possible!" },
+    { "text": "Was nicht ist, kann ja noch kommen.", "translation": "What is not, can still come." },
+    { "text": "Gut, gut, ich geh' ja schon.", "translation": "Well, well, I'm already going." },
+    { "text": "Das werden wir ja sehen!", "translation": "We'll just see about that!" },
+    { "text": "Hast du ja gesagt?", "translation": "Did you say yes?" },
+    { "text": "Er hat schon ja gesagt.", "translation": "He has already said yes." },
+    { "text": "Tom möchte, dass Maria ja sagt.", "translation": "Tom wants Mary to say yes." },
+    { "text": "Du hast es ja gesagt bekommen.", "translation": "You've been told." }
+  ],
+  "durch": [
+    { "text": "Damit kommst du nicht durch!", "translation": "You can't get away with it!" },
+    { "text": "Sind wir dann durch?", "translation": "Are we done?" },
+    { "text": "Das haben wir doch alles schon durch.", "translation": "We've been through this before." },
+    { "text": "Hundert durch fünf macht zwanzig.", "translation": "One hundred by five makes twenty." },
+    {
+      "text": "„Herr Doktor, wie geht es ihm?“ – „Er kommt durch.“",
+      "translation": "\"Doctor, how is he?\" – \"He's getting through.\""
+    }
+  ],
+  "neu": [
+    { "text": "Das ist mir ganz neu.", "translation": "This is completely new to me." },
+    { "text": "Alles neu macht der Mai.", "translation": "Everything is new in May." },
+    { "text": "Das ist immer noch neu für mich.", "translation": "It's still new to me." },
+    { "text": "Wir sehen uns im neuen Jahr.", "translation": "See you in the new year." },
+    { "text": "Es sieht so gut wie neu aus.", "translation": "It now looks as good as new." }
+  ],
+  "heute": [
+    { "text": "Heute geht das nicht mehr.", "translation": "Nowadays, this is not like this anymore." },
+    { "text": "Mein Freund hat heute Geburtstag.", "translation": "Today is my friend's birthday." },
+    { "text": "So viel für heute!", "translation": "So much for today!" },
+    { "text": "Heute ist die beste Zeit.", "translation": "Today is the best time." },
+    { "text": "Ich möchte heute etwas anderes machen.", "translation": "I would like to do something else today." }
+  ],
+  "warum": [
+    { "text": "Warum immer ich?", "translation": "Why always me?" },
+    { "text": "Warum haben Koalas keinen Bauchnabel?", "translation": "Why don't koalas have a belly button?" },
+    { "text": "Warum lässt du es nicht einfach so?", "translation": "Why don't you just leave it like that?" },
+    { "text": "Sie sagte mir, warum sie gegangen war.", "translation": "She told me why she went." },
+    { "text": "Ich möchte wissen, warum ich hier bin.", "translation": "I want to know why I'm here." }
+  ],
+  "damit": [
+    { "text": "Ich will nichts damit zu tun haben.", "translation": "I want nothing to do with it." },
+    { "text": "Das wollte ich damit nicht sagen.", "translation": "That's not what I meant to say." },
+    { "text": "Was will uns das Leben damit sagen?", "translation": "What does life want to tell us with it?" },
+    { "text": "Damit kommst du nicht durch!", "translation": "You can't get away with it!" },
+    {
+      "text": "Warum denkst du, er habe was damit zu tun?",
+      "translation": "What makes you think he had anything to do with it?"
+    },
+    { "text": "Du hast damit nichts zu tun.", "translation": "You have nothing to do with it." },
+    {
+      "text": "Esperanto - damit Europa sich versteht.",
+      "translation": "Esperanto - so that Europe understands itself."
+    },
+    { "text": "Wir essen, damit wir leben.", "translation": "We eat so we can live." },
+    { "text": "Er starb, damit wir leben können.", "translation": "He died so that we could live." },
+    {
+      "text": "Wir müssen etwas tun, damit das nicht wieder passiert.",
+      "translation": "We have to do something to stop this from happening again."
+    }
+  ],
+  "wer": [
+    { "text": "Wer kommt mit mir?", "translation": "Who is coming with me?" },
+    { "text": "Ihr wisst nicht, wer ich bin.", "translation": "You don't know who I am." },
+    { "text": "Wer hätte das gedacht?", "translation": "Who would've thought that?" },
+    { "text": "Wer denkt sich so etwas aus?", "translation": "Who comes up with such a thing?" },
+    { "text": "Viel tut, wer etwas gut tut.", "translation": "A lot is done by those who do something well." }
+  ],
+  "doch": [
+    { "text": "Das ist doch kein Leben!", "translation": "This is no life!" },
+    { "text": "Das wissen Sie doch!", "translation": "But you know that!" },
+    { "text": "Sie wissen das doch besser als ich.", "translation": "You know that better than I do." },
+    { "text": "Weiß ich doch schon!", "translation": "I know!" },
+    { "text": "Doch, doch, ich sehe es auch so.", "translation": "Yes, yes, I see it that way too." }
+  ],
+  "Leute": [
+    { "text": "Die Leute haben alle keine Zeit.", "translation": "People all don't have time." },
+    { "text": "Gute Leute gibt es nicht viel.", "translation": "There aren't much good people." },
+    {
+      "text": "Alle Leute, die hier waren, sind gegangen.",
+      "translation": "The people which were here have all gone."
+    },
+    { "text": "Wisst ihr, wer diese Leute sind?", "translation": "Do you know who those people are?" },
+    { "text": "Und die Leute? Was werden die sagen?", "translation": "And the people? What will they say?" }
+  ]
+}

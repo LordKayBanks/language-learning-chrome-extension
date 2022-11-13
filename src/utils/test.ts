@@ -1,0 +1,40 @@
+export const test = () => {
+  console.log('common utils test function');
+};
+
+export const dictionary = {
+  tinnitus: 'Einmaleins {n} [Grundkenntnisse]: noun',
+  ringing: '„Zum Geleit“:',
+  in: 'Herzogenbusch {n}: noun',
+  the: 's ist [meist poet.: es ist]:, es ist:',
+  ears: 's war:',
+  and: '-bar: suffix, -fähig: suffix',
+  what: '-al: suffix',
+  to: 'schnäbelig: suffix, schnäblig: suffix',
+  do: 'schnäbelig: suffix, schnäblig: suffix',
+  about: '-stämmig: suffix',
+  it: '-beschichtet: suffix',
+  '-cyme': '-zym: suffix',
+  '-driven': '-gesteuert: suffix',
+  '-engined': '-motorig: suffix',
+  '-esque': '-artig: suffix, -esk: suffix, -mäßig: suffix',
+  '-eyed': '-äugig: suffix',
+  '-figure': '-stellig: adj',
+  '-fold': '-fach: suffix',
+  '-footed': '-füßig: adj',
+  '-ful': '-voll: suffix',
+  '-haired': '-haarig: suffix',
+  '-headed': '-köpfig: adj',
+  '-hearted': '-herzig: adj',
+  '-hood': '-heit: suffix',
+  '-ic': '-isch: suffix',
+  '-ish': '-haft: suffix, -isch: suffix, -lich: suffix',
+  '-ism': '-ismus: suffix',
+  '-ist': '-ist: suffix',
+  '-ize': '-isieren: suffix',
+  '-legged': '-beinig: adj',
+  '-less': '-los: suffix',
+  '-like': '-artig: suffix',
+  '-master': '-meister: suffix',
+  '-meister': '-meister: suffix'
+};
